@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+pyserial>=3.5
+folium>=0.14.0
+pyqtwebengine>=6.4.0
